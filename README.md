@@ -1,5 +1,5 @@
-# PintOS
-My take on PintOS
+# pintos
+My take on pintos OS
 
 # Setup
 I downloaded an Ubuntu 18.04 VM .ova with everything packaged and ready for PintOS.
